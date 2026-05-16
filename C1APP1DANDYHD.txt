@@ -15,7 +15,7 @@
     "reviewpopup": "yes",
     "suspended": "no",
     "merchLink": "https://www.teepublic.com/user/toonsworld",
-    "banner_text": "Dandy's World Shirts",
+    "banner_text": "Dandy Pixel Shirts",
     "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad1.png",
     "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad2.png",
     "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad3.png",
