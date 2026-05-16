@@ -4,7 +4,6 @@
     "adNetwork": "applovin",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinInterstitial": "6ad5f3eeafd4ab7d",
-    "applovinNative": "dd0226a88e5421dc",
     "applovinAppOpen": "02aed4d7def56bf0",
     "unityGameId": "6094609",
     "ads": "enable",
