@@ -11,7 +11,7 @@
     "inapp": true,
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android",
-    "html": "yes",
+    "html": "false",
     "reviewpopup": "yes",
     "suspended": "no",
     "merchLink": "https://www.teepublic.com/user/toonsworld",
