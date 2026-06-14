@@ -6,6 +6,7 @@
     "reviewpopup": "yes",
     "CPA": "no"
     "cpaLockerLink": "https://dandypixel.shop/cl/i/w6jwn1",
+    "costumbanner": "yes",
 
     "admobInterstitial": "ca-app-pub-7023905693048261/6909049508",
     "admobAppOpen": "ca-app-pub-7023905693048261/7634443431",
@@ -17,8 +18,6 @@
     "testMode": false,
     "unityInterstitial": "Interstitial_Android",
     
-    
-    "costumbanner": "yes",
     "merchLink": "https://www.redbubble.com/people/ChristianBoss/",
     "banner_text": "Dandy's World Shirts",
     "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
