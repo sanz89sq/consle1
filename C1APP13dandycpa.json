@@ -4,7 +4,7 @@
     "ads": "disable",
     "inapp": true,
     "reviewpopup": "yes",
-    "CPA": "no",
+    "CPA": "yes",
     "appstage": "2"
     "cpaLockerLink": "https://dandypixel.shop/cl/i/w6jwn1",
     "costumbanner": "yes",
