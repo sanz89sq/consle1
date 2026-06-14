@@ -1,23 +1,31 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
+    "adNetwork": "applovin",  
+    "ads": "disable",
+    "inapp": true,
+    "reviewpopup": "yes",
+    "CPA": "no"
+    "cpaLockerLink": "https://dandypixel.shop/cl/i/w6jwn1",
+
     "admobInterstitial": "ca-app-pub-7023905693048261/6909049508",
     "admobAppOpen": "ca-app-pub-7023905693048261/7634443431",
+    
     "applovinInterstitial": "843ae154ffa166ed",
     "applovinAppOpen": "4867cdcd14ef4a78",
+    
     "unityGameId": "6094609",
-    "ads": "disable",
     "testMode": false,
-    "inapp": true,
     "unityInterstitial": "Interstitial_Android",
-    "reviewpopup": "yes",
-    "suspended": "no",
+    
+    
     "costumbanner": "yes",
     "merchLink": "https://www.redbubble.com/people/ChristianBoss/",
     "banner_text": "Dandy's World Shirts",
     "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
     "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
     "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+    
+    "suspended": "no",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
     "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
     "suspended_message": "We have a new build — tap the image to download it."
