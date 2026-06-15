@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "adNetwork": "applovin",  
-    "ads": "disable",
+    "ads": "enable",
     "inapp": true,
     "reviewpopup": "yes",
     "CPA": "yes",
@@ -12,6 +12,7 @@
     "admobAppOpen": "ca-app-pub-7023905693048261/7634443431",
     "applovinInterstitial": "843ae154ffa166ed",
     "applovinAppOpen": "4867cdcd14ef4a78",
+    "applovinRewarded": "843ae154ffa166ed"
     "unityGameId": "6094609",
     "testMode": false,
     "unityInterstitial": "Interstitial_Android",
