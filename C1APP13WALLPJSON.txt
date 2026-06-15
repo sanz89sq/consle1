@@ -1,34 +1,41 @@
 {
+  "_comment": "Optional 'thumb' = a hosted JPG for an instant grid thumbnail. Upload a small image (e.g. live4.jpg) to Firebase, copy its download URL, and paste it below. Omit 'thumb' to auto-extract a frame from the video instead.",
   "wallpapers": [
     {
       "key": "live4",
       "title": "Live 4",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live4.mp4?alt=media&token=9bd715a5-3ae9-4713-8f1e-eefce58c0a80"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live4.mp4?alt=media&token=9bd715a5-3ae9-4713-8f1e-eefce58c0a80",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive4.jpg?alt=media&token=0ce0ebc1-80a5-4424-9325-48aa5ee6f7cd"
     },
     {
       "key": "live5",
       "title": "Live 5",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live5.mp4?alt=media&token=3071cf6d-ea86-468b-973b-cf0b361b49bb"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live5.mp4?alt=media&token=3071cf6d-ea86-468b-973b-cf0b361b49bb",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive5.jpg?alt=media&token=25419f32-ace8-4fe5-885f-9daa490666f8"
     },
     {
       "key": "live6",
       "title": "Live 6",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live6.mp4?alt=media&token=bc9387f4-649f-4f96-b9ff-3c9733c43b06"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live6.mp4?alt=media&token=bc9387f4-649f-4f96-b9ff-3c9733c43b06",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive6.jpg?alt=media&token=6b136c7c-ef70-463c-a388-d9041fb1a833"
     },
     {
       "key": "live7",
       "title": "Live 7",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live7.mp4?alt=media&token=d0ef38d1-6ba3-4d45-87ba-67133395c5d0"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live7.mp4?alt=media&token=d0ef38d1-6ba3-4d45-87ba-67133395c5d0",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive7.jpg?alt=media&token=da20402f-d680-44d3-b6a8-08c88a6bb952"
     },
     {
       "key": "live8",
       "title": "Live 8",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live8.mp4?alt=media&token=c23802cc-6a35-4c62-9a76-ba934f0dbbe7"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live8.mp4?alt=media&token=c23802cc-6a35-4c62-9a76-ba934f0dbbe7",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive8.jpg?alt=media&token=c8d007ab-10f5-45c3-859b-146acb970985"
     },
     {
       "key": "live9",
       "title": "Live 9",
-      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live9.mp4?alt=media&token=9259c04f-32b2-4734-878c-5d3b442cb0e0"
+      "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live9.mp4?alt=media&token=9259c04f-32b2-4734-878c-5d3b442cb0e0",
+      "thumb": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/thumb%2Flive9.jpg?alt=media&token=fbc0ba9a-68fd-40dc-b8bc-66b5a3d3fc39"
     }
   ]
 }
