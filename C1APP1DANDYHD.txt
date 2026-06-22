@@ -13,7 +13,7 @@
     "unityRewarded": "Rewarded_Android",
     "html": "false",
     "reviewpopup": "yes",
-    "suspended": "no",
+    "suspended": "yes",
     "merchLink": "https://www.teepublic.com/user/toonsworld",
     "banner_text": "Dandy's World Shirts",
     "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
