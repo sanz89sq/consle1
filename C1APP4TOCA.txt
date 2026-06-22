@@ -13,7 +13,7 @@
     "unityRewarded": "Rewarded_Android",
     "html": "yes",
     "reviewpopup": "yes",
-    "suspended": "no",
+    "suspended": "yes",
     "merchLink": "https://www.teepublic.com/user/toca-life-fans",
     "banner_text": "Toca Boca Shirts",
     "merchpng1": "https://raw.githubusercontent.com/sanz89sq/nichewasim/refs/heads/main/11.png",
