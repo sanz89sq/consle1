@@ -5,7 +5,7 @@
     "inapp": true,
     "reviewpopup": "yes",
     "costumbanner": "yes",
-    "testMode": true,
+    "testMode": false,
 
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
     "board0": "dandys-world-fanart/pins/",
