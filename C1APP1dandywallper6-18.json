@@ -33,9 +33,9 @@
     "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
     "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
 
-    "suspended": "no",
-    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
-    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
-    "suspended_message": "We have a new build — tap the image to download it."
+    "suspended": "yes",
+    "suspended_icon": "https://play-lh.googleusercontent.com/Q4BleP-2pEXTgefRYho8y4wOqn0i_52qjf8n2UdH7wUfXnM4zJmJM5KbYJE9pXkqPpbKLWRmwhtgG3JjLR5e6g=w240-h480-rw",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.dandyworldhd",
+    "suspended_message": "New feature available! Tap any image to update it instantly"
   }
 }
