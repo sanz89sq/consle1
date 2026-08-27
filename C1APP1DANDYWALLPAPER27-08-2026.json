@@ -1,0 +1,65 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "enable",
+    "inapp": true,
+    "reviewpopup": "yes",
+    "costumbanner": "yes",
+    "testMode": false,
+
+    "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
+    "board0": "dandys-world-fanart/pins/",
+    "board0_name": "Fan art",
+    "board1": "dandys-world-wallpaper/pins/",
+    "board1_name": "Trending",
+    "board2": "dandysworld-toons/pins/",
+    "board2_name": "Toon",
+    "board3": "dandys-world-pebble/pins/",
+    "board3_name": "Pebble",
+    "board4": "dandys-world-shelly/pins/",
+    "board4_name": "Shelly",
+    "board5": "dandys-world-hd/pins/",
+    "board5_name": "Astro",
+    "board6": "dandy-world-cosmo/pins/",
+    "board6_name": "Cosmo",
+    "board7": "dandy-world-ginger/pins/",
+    "board7_name": "Ginger",
+    "board8": "dandys-world-sprout/pins/",
+    "board8_name": "Sprout",
+    "board9": "dandys-world-poppy/pins/",
+    "board9_name": "Poppy",
+    "board10": "dandys-world-gourdy/pins/",
+    "board10_name": "Gourdy",
+    "board11": "dandys-world-squirm/pins/",
+    "board11_name": "Squirm",
+
+
+    "admobInterstitial": "ca-app-pub-7757069622252358/2662140165",
+    "admobAppOpen": "ca-app-pub-7757069622252358/9833787243",
+    "admobRewarded": "ca-app-pub-7757069622252358/4477518785",
+    "admobNative": "ca-app-pub-7757069622252358/7068289039",
+
+    "applovinInterstitial": "c4aa67380e8d69b3",
+    "applovinAppOpen": "d589b65d52e07071",
+    "applovinRewarded": "70629a3f83860728",
+    "applovinNative": "c78019ab7e05f056",
+
+     "fanInterstitial": "1388106280016746_1388107366683304",
+    "fanNativeCard": "1388106280016746_1388108453349862",   
+    "fanNativeBanner":     "1388106280016746_1388109463349761",  
+    "fanRewarded": "1388106280016746_1388109816683059",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld",
+    "banner_text": "Dandy's World Shirts",
+
+    "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
+    "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
+    "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
