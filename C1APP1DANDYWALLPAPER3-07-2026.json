@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "ads": "enable",
     "inapp": true,
     "reviewpopup": "yes",
@@ -39,7 +39,7 @@
     "admobRewarded": "ca-app-pub-7757069622252358/4477518785",
     "admobNative": "ca-app-pub-7757069622252358/7068289039",
 
-    "applovinInterstitial": "c4aa67380e8d69b3",
+    "applovinInterstitial": "8140198e3bd84f5d",
     "applovinAppOpen": "d589b65d52e07071",
     "applovinRewarded": "70629a3f83860728",
     "applovinNative": "c78019ab7e05f056",
