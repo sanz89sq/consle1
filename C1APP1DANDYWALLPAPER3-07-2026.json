@@ -61,9 +61,9 @@
     "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
     "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
 
-    "suspended": "no",
-    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
-    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
-    "suspended_message": "We have a new build — tap the image to download it."
+    "suspended": "yes",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/consle1/refs/heads/main/dandyupdate.jpg",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.dandyworldhd",
+    "suspended_message": "Halloween Update Is Here!."
   }
 }
