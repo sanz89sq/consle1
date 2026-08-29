@@ -22,8 +22,9 @@
     "shirt1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
     "shirt2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
     "shirt3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+ 
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/consle1/refs/heads/main/dandyupdate.jpg",
     "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.dandyworldhd",
-    "suspended_message": "We have a new build — tap the image to download it."
+    "suspended_message": "Halloween Update Is Here!."
   }
 }
