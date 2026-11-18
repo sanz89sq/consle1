@@ -1,0 +1,28 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "disable",
+    "shop": false,
+	"inappurshase": "disable",
+	"update": false,
+    "updatelink": "https://play.google.com/store/apps/details?id=com.maryamber.dandyballoons",
+
+    
+    "admobInterstitial": "ca-app-pub-7757069622252358/9653204631",
+    "admobAppOpen": "ca-app-pub-7757069622252358/4804202633",
+    "admobRewarded": "ca-app-pub-7757069622252358/6593741111",
+
+
+    "applovinInterstitial": "a59b5ad0944a47af",
+    "applovinNative": "ff2ad150fa6847bf",
+    "applovinAppOpen": "c0ace1906ec4394d",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/shop?collections=4572604",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld/albums/535626-dandys-world",
+
+    "unityGameId": "6148642",
+    "unityInterstitial": "Interstitial_Android",
+    "testMode": true,
+    "reviewActive": false
+  }
+}
